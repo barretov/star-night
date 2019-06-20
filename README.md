@@ -1,0 +1,1 @@
+# Star Night theme based on firefox developer tool colors
