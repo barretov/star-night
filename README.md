@@ -1,24 +1,68 @@
-# Theme based on firefox developer tools colors
+<!-- # Theme based on firefox developer tools colors -->
 
 <!-- ## 📺 Welcome to 1984 📺 -->
 
-## Preview
+## Previews
+
+#### java script
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview1.png)
+
+#### css
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview2.png)
+
 #### php
-![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshots/preview1.jpg)
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview4.png)
 
-#### js
-![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshots/preview2.jpg)
+#### html
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview5.png)
 
-[Inspiration...](https://www.google.com/search?biw=1680&bih=916&tbm=isch&sa=1&ei=EXTrXIPHOMWp5wKd44OQCQ&q=neon+80%27s&oq=neon+80%27s&gs_l=img.3..0l7j0i8i30l3.29094.31832..32040...1.0..0.155.1430.0j10......0....1..gws-wiz-img.......0i67.WMLF_ojU7PA)
+#### terminal
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview3.png)
+
+---
 
 _For the screenshots, I'm using:_
 
+- [Roboto Mono Light](https://fonts.google.com/specimen/Roboto+Mono)
+- [BreadCrumb in StatusBar](https://marketplace.visualstudio.com/items?itemName=danields761.status-bar-breadcrumb)
+
+```json
+//  in StatusBar configuration | put this code on your settings.json
+"breadcrumbs.enabled": false,
+```
+
 - [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-- [Dank Mono Font](https://dank.sh/)
-- [Desktop Wallpaper](https://wallpapersite.com/creative-graphics/neon-synthwave-retrowave-grid-mountains-purple-hd-14398.html)
 
-_From the community:_
+```json
+// bracker Pair colorizer configuration | put this code on your settings.json
 
-- [1984 iTerm 2 Color Schemes](https://github.com/covertbert/iterm2-1984) thanks to [@covertbert](https://github.com/covertbert)
+"bracketPairColorizer.showBracketsInGutter": true,
+    "bracketPairColorizer.consecutivePairColors": [
+        "()",
+        "[]",
+        "{}",
+        ["#b1b1b3"],
+        "grey",
+    ],
+```
+
+- [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) to this plugin special details below
+
+### Blur and Gradient
+To enable the special effects you must download the additional code [here]() and setup downloaded file on settings.json with the code below.
+
+
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview6.png)
+
+```json
+// custom CSS and JS Loader configuration | put this code on your settings.json
+    "vscode_custom_css.imports": [
+        "file:////home/youruser/Downloads/style_extra.css"
+    ],
+    "vscode_custom_css.policy": true,
+```
+After configuration you must run the command: CTRL+SHIFT+P and type "Enable Custom CSS and JS".
+
+Enjoy!
 
 ---
