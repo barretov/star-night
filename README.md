@@ -1,7 +1,3 @@
-<!-- # Theme based on firefox developer tools colors -->
-
-<!-- ## 📺 Welcome to 1984 📺 -->
-
 ## Previews
 
 #### java script
@@ -24,10 +20,12 @@
 _For the screenshots, I'm using:_
 
 - [Roboto Mono Light](https://fonts.google.com/specimen/Roboto+Mono)
+- [File-icons](https://marketplace.visualstudio.com/items?itemName=file-icons.file-icons)
+- [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
 - [BreadCrumb in StatusBar](https://marketplace.visualstudio.com/items?itemName=danields761.status-bar-breadcrumb)
 
 ```json
-//  in StatusBar configuration | put this code on your settings.json
+// StatusBar configuration | put this code on your settings.json
 "breadcrumbs.enabled": false,
 ```
 
