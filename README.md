@@ -49,7 +49,7 @@ _For the screenshots, I'm using:_
 - [Custom CSS and JS Loader](https://marketplace.visualstudio.com/items?itemName=be5invis.vscode-custom-css) to this plugin special details below
 
 ### Blur and Gradient
-To enable the special effects you must download the additional code [here]() and setup downloaded file on settings.json with the code below.
+To enable the special effects you must download the additional code [here](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/style_extra.css) and setup downloaded file on settings.json with the code below.
 
 
 ![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview6.png)
