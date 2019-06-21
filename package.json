@@ -1,11 +1,15 @@
 {
     "publisher": "victoreduardobarreto",
     "name": "star-night",
-    "displayName": "star_night",
-    "description": "theme based on firefox developer tools colors",
-    "version": "0.0.1",
+    "displayName": "Star Night",
+    "description": "Theme based on firefox developer tools colors",
+    "version": "0.0.2",
     "engines": {
         "vscode": "^1.35.0"
+    },
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/victoreduardobarreto/star-night"
     },
     "categories": [
         "Themes"
@@ -18,5 +22,6 @@
                 "path": "./themes/Star Night-color-theme.json"
             }
         ]
-    }
+    },
+    "icon": "star-night.png"
 }
