@@ -1,6 +1,5 @@
 ![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/background.png)
 
-
 # Previews
 #### style colors
 ![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview7.png)
