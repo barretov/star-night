@@ -1,53 +1,16 @@
-
-.mtk3 {
-  /* color: #f92aad; */
-  /* text-shadow: 0 0 2px #100c0f, 0 0 5px #dc078e33, 0 0 10px rgba(255, 255, 255, 0); */
-}
-
-.mtk4 {
-  /* color: #6d77b3; */
-}
-
-.mtk5 {
-  /* color: #f97e72; */
-}
-
-.mtk6 {
-  /* color: #fdfdfd; */
-  /* text-shadow: 0 0 2px #001716, 0 0 3px #03edf975, 0 0 5px #03edf975, 0 0 8px #03edf975; */
-}
-
-.mtk7 {
-  /* color: #fff5f6; */
-  /* /* /* text-shadow: 0 0 1px #000, 0 0 1px #fff, 0 0 1px #fff, 0 0 1px #fff; */ */ */
-}
-
 .mtk8 {
-  /* color: #B98EF1; */
   text-shadow: 0 0 1px #100c0f, 0 0 1px #B98EF1, 0 0 1px #a1a1a14f;
-}
-
-.mtk9 {
-  /* color: #f4eee4; */
-  /* text-shadow: 0 0 2px #393a33, 0 0 35px #ffffff44, 0 0 8px #f39f0575, 0 0 2px #f39f0575; */
 }
 
 .monaco-editor .margin, .monaco-editor-background, .monaco-editor .inputarea.ime-input {
   background: transparent;
 }
 
-/* Add the subtle gradient to the editor background */
 .monaco-editor {
   background-color: transparent !important;
-  /* background-image: linear-gradient(to bottom, #49474c 75%, #000000); */
   background-size: auto 100vh;
   background-position: top;
   background-repeat: no-repeat;
-}
-
-/* Sweet sunset dots */
-.monaco-workbench .activitybar>.content .monaco-action-bar .badge .badge-content {
-  /* background: linear-gradient(to bottom, #fff951 25%, #fc28a8); */
 }
 
 /* Active tab neon */
@@ -64,7 +27,6 @@
   left: 0;
   right: 0;
   height: 4px;
-  /* background: linear-gradient(to right, #fc28a8, #790745) !important; */
   opacity: 1;
 }
 
@@ -81,8 +43,6 @@
 
 /* Active sidebar item */
 .monaco-workbench .activitybar>.content .monaco-action-bar .action-item.checked {
-  /* box-shadow: inset 0 -5px 25px #850c4e88; */
-  /* box-shadow: inset 0 -20px 10px -20px #e61d71; */
   position: relative;
 }
 
@@ -94,7 +54,6 @@
   left: 0px;
   width: 8px;
   box-shadow: inset 6px 0px 8px -4px #e61d71;
-  /* background: linear-gradient(to bottom, #fc28a8, #03edf9) !important; */
   opacity: 1;
 }
 

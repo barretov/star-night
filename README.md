@@ -1,19 +1,24 @@
-## Previews
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/background.png)
+
+
+# Previews
+#### style colors
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview7.png)
 
 #### java script
-![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview1.png)
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview1.png)
 
 #### css
-![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview2.png)
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview2.png)
 
 #### php
-![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview4.png)
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview4.png)
 
 #### html
-![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview5.png)
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview5.png)
 
 #### terminal
-![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview3.png)
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview3.png)
 
 ---
 
@@ -50,7 +55,7 @@ _For the screenshots, I'm using:_
 To enable the special effects you must download the additional code [here](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/style_extra.css) and setup downloaded file on settings.json with the code below.
 
 
-![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/screenshot/preview6.png)
+![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview6.png)
 
 ```json
 // custom CSS and JS Loader configuration | put this code on your settings.json

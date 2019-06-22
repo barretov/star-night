@@ -3,7 +3,7 @@
     "name": "star-night",
     "displayName": "Star Night",
     "description": "Theme based on firefox developer tools colors",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "engines": {
         "vscode": "^1.35.0"
     },
@@ -23,5 +23,5 @@
             }
         ]
     },
-    "icon": "star-night.png"
+    "icon": "star-night.svg"
 }
