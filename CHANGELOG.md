@@ -13,3 +13,6 @@
 
 ## v.0.2.4
 - Improved warning editor and list color
+
+## v.0.2.5
+- Changing match bracket pair color to visible
