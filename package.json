@@ -3,13 +3,13 @@
     "name": "star-night",
     "displayName": "Star Night",
     "description": "Theme based on firefox developer tools colors",
-    "version": "0.3.0",
+    "version": "0.3.1",
     "engines": {
         "vscode": "^1.35.0"
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/victoreduardobarreto/star-night"
+        "url": "https://github.com/barretov/star-night"
     },
     "categories": [
         "Themes" 

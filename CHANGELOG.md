@@ -23,3 +23,7 @@
 - Adding activitybar background color
 - Adding theme color on light bulb error icon
 - Improving terminal colors
+
+## v.0.3.1
+- Fixing black brigth terminal color
+- Improving active line number color
