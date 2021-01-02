@@ -2,10 +2,10 @@
     "publisher": "victoreduardobarreto",
     "name": "star-night",
     "displayName": "Star Night",
-    "description": "Theme based on firefox developer tools colors",
-    "version": "0.3.1",
+    "description": "A minimalist and elegant theme",
+    "version": "0.4.0",
     "engines": {
-        "vscode": "^1.35.0"
+        "vscode": "^1.52.1"
     },
     "repository": {
         "type": "git",
@@ -19,7 +19,12 @@
             {
                 "label": "Star Night",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Star Night-color-theme.json"
+                "path": "./themes/star-night-color-theme.json"
+            },
+            {
+                "label": "Star Night | Luna",
+                "uiTheme": "vs",
+                "path": "./themes/star-night-luna-color-theme.json"
             }
         ]
     },

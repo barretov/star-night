@@ -27,3 +27,7 @@
 ## v.0.3.1
 - Fixing black brigth terminal color
 - Improving active line number color
+
+## v.0.4.0
+- Adding Luna theme - light version
+- Improving dark theme colors
