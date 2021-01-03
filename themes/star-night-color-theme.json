@@ -4,7 +4,7 @@
 	"colors": {
 		// ## generic ##
 		"foreground": "#ff577e",
-		"focusBorder": "#00000000",
+		"focusBorder": "#ff577e7e",
 		"widget.shadow": "#ff577e",
 		"progressBar.background": "#ff577e",
 		"errorForeground": "#da3b3b",
@@ -15,6 +15,7 @@
 		"editorCodeLens.foreground": "#b1b1b3c3",
 		"editorPane.background": "#2a2a2e",
 		"icon.foreground": "#b1b1b3",
+		"selection.background": "#ffffff18",
 		// ## minimap ##
 		"minimap.background": "#2a2a2e",
 		"minimap.errorHighlight": "#ea4646",
@@ -52,7 +53,7 @@
 		"button.secondaryHoverBackground": "#686868",
 		// ## dropdown ##
 		"dropdown.background": "#2a2a2e",
-		"dropdown.border": "#b1b1b3",
+		"dropdown.border": "#b6b6b657",
 		"dropdown.foreground": "#ff577e",
 		"dropdown.listBackground": "#2a2a2e",
 		// ## editor ##
@@ -61,7 +62,7 @@
 		"editor.findMatchBackground": "#ffffff0c",
 		"editor.findMatchBorder": "#00000000",
 		"editor.findMatchHighlightBackground": "#ffffff0c",
-		"editor.findMatchHighlightBorder": "#00000000",
+		"editor.findMatchHighlightBorder": "#ff577e9c",
 		"editor.findRangeHighlightBackground": "#00000000",
 		"editor.findRangeHighlightBorder": "#00000000",
 		"editor.focusedStackFrameHighlightBackground": "#ffffff0c",
@@ -84,7 +85,7 @@
 		"editor.rangeHighlightBackground": "#00000000",
 		"editor.rangeHighlightBorder": "#00000000",
 		"editor.foldBackground": "#b1b1b3c3",
-		"editor.symbolHighlightBorder": "#541b9e",
+		"editor.symbolHighlightBorder": "#a967fff1",
 		"editor.linkedEditingBackground": "#ff577e",
 		"editor.symbolHighlightBackground": "#00000000",
 		"editor.stackFrameHighlightBackground": "#00000000",
@@ -125,8 +126,8 @@
 		"editorHoverWidget.background": "#39393d",
 		"editorHoverWidget.foreground": "#b1b1b3",
 		"editorHoverWidget.border": "#00000000",
-		"editorHoverWidget.statusBarBackground": "#39393d",
-		"editorWidget.background": "#39393d",
+		"editorHoverWidget.statusBarBackground": "#2a2a2e",
+		"editorWidget.background": "#2a2a2e",
 		"editorWidget.foreground": "#b1b1b3",
 		"editorWidget.border": "#00000000",
 		"editorWidget.resizeBorder": "#ff577e",
@@ -228,7 +229,6 @@
 		"scrollbarSlider.activeBackground": "#00000062",
 		"scrollbarSlider.background": "#64646441",
 		"scrollbarSlider.hoverBackground": "#0000003b",
-		"selection.background": "#ffffff18",
 		// ## sidebar ##
 		"sideBar.background": "#2a2a2e",
 		"sideBar.border": "#2a2a2e",

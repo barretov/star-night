@@ -15,19 +15,20 @@
 - Improved warning editor and list color
 
 ## v.0.2.5
-- Changing match bracket pair color to visible
+- Changed match bracket pair color to visible
 
 ## v.0.3.0
-- Fixing activitybar color when use extra css enabled
-- Adding transition animation on tab background with extra css enabled
-- Adding activitybar background color
-- Adding theme color on light bulb error icon
-- Improving terminal colors
+- Fixed activitybar color when use extra css enabled
+- Added transition animation on tab background with extra css enabled
+- Added activitybar background color
+- Added theme color on light bulb error icon
+- Improved terminal colors
 
 ## v.0.3.1
-- Fixing black brigth terminal color
-- Improving active line number color
+- Fixed black brigth terminal color
+- Improved active line number color
 
 ## v.0.4.0
-- Adding Luna theme - light version
-- Improving dark theme colors
+- Added Luna theme - light version
+- Improved dark theme colors
+- Updated documentation
