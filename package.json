@@ -3,7 +3,7 @@
     "name": "star-night",
     "displayName": "Star Night",
     "description": "A minimalist and elegant theme",
-    "version": "0.4.0",
+    "version": "0.4.1",
     "engines": {
         "vscode": "^1.52.1"
     },

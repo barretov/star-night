@@ -32,3 +32,7 @@
 - Added Luna theme - light version
 - Improved dark theme colors
 - Updated documentation
+## v.0.4.1
+- Adjusted background color for luna theme
+- Adjusted pink color for luna theme
+- Adjusted gray color for luna theme
