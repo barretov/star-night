@@ -40,3 +40,6 @@
 
 ## v.0.4.2
 - Adjusted preview image
+
+## v.0.4.3
+- Adjusted fold highlight color in the star night theme

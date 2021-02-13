@@ -84,7 +84,7 @@
 		"editor.snippetTabstopHighlightBorder": "#00000000",
 		"editor.rangeHighlightBackground": "#00000000",
 		"editor.rangeHighlightBorder": "#00000000",
-		"editor.foldBackground": "#b1b1b3c3",
+		"editor.foldBackground": "#8383831f",
 		"editor.symbolHighlightBorder": "#a967fff1",
 		"editor.linkedEditingBackground": "#ff577e",
 		"editor.symbolHighlightBackground": "#00000000",
