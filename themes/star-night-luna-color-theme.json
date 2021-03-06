@@ -177,6 +177,7 @@
         "quickInput.background": "#ffffff",
         "quickInput.foreground": "#777777",
         "quickInputTitle.background": "#ffffff",
+        "quickInput.list.focusBackground": "#d3d3d398",
         // ## list ##
         "list.filterMatchBackground": "#acacac9d",
         "list.filterMatchBorder": "#00000000",

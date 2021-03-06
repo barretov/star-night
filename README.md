@@ -4,7 +4,3 @@
 # Preview
 ![](https://raw.githubusercontent.com/victoreduardobarreto/star-night/master/images/preview.png)
 ---
-
-Enjoy!
-
----

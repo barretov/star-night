@@ -43,3 +43,6 @@
 
 ## v.0.4.3
 - Adjusted fold highlight color in the star night theme
+
+## v.0.4.4
+- Adjusted quick input list focus background color
