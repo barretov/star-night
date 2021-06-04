@@ -243,9 +243,9 @@
         // ## statusBar ##
         "statusBar.background": "#ffffff",
         "statusBar.border": "#00000000",
-        "statusBar.debuggingBackground": "#ffffff",
+        "statusBar.debuggingBackground": "#ff577e",
+        "statusBar.debuggingForeground": "#fff",
         "statusBar.debuggingBorder": "#00000000",
-        "statusBar.debuggingForeground": "#00000000",
         "statusBar.foreground": "#ff577e",
         "statusBar.noFolderBackground": "#00000000",
         "statusBar.noFolderBorder": "#00000000",

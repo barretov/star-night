@@ -46,3 +46,6 @@
 
 ## v.0.4.4
 - Adjusted quick input list focus background color
+
+## v.0.4.5
+- Adjusted statusbar color when debugging   
